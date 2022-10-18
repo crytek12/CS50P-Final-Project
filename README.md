@@ -25,7 +25,7 @@ The exception is raised when the user does not co-operate accordingly and output
 ![Screenshot (1390)](https://user-images.githubusercontent.com/89571912/194519132-ee2c6ddc-630e-473e-ba83-af9fab85a630.png)
 ![Screenshot (1391)](https://user-images.githubusercontent.com/89571912/194519153-59c3a448-11f7-4122-be98-ca42ca67a7d1.png)
 
-## Why I decided to use pandas and pythonwebio specifically?
+## Why I decided to use pandas and pywebio specifically?
 I chose pandas because it allows you to query at much faster rather than say, lopping through which can be time consuming and processor extensive. And my reason for pywebio was because it is the easiest way to build an interactive web application with just few lines of code, plus it is much prettier instead of having user type it on the command line.
 
 ### Thank you!
